@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 import requests
 
-APP_NAME = "PracticeMatch AI — Demo v0.3"
+APP_NAME = "Buscador de prácticas— Demo v0.3"
 
 # -------------------------
 # Utilidades
