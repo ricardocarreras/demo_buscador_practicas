@@ -1,3 +1,6 @@
 streamlit
 pandas
 requests
+pypdf
+python-docx
+openai
